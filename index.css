@@ -1,0 +1,33 @@
+.firstRow {
+  display: flex;
+  justify-content: center;
+}
+.secondRow {
+  display: flex;
+  justify-content: center;
+}
+.thirdRow {
+  display: flex;
+  justify-content: center;
+}
+.item {
+  margin: 10px;
+}
+.fourthRow {
+  display: flex;
+  justify-content: center;
+}
+#ip {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  align-items: flex-end;
+}
+
+.ip_child {
+  height: auto;
+}
+
+body {
+  background-color: rgb(240, 220, 195) !important;
+}
